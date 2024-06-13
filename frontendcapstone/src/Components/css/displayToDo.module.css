@@ -1,0 +1,131 @@
+
+.container {
+    height: 100vh;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+     
+   
+  }
+  
+
+.header{
+    background-color: lightblue;
+    text-align: center;
+    font-weight: bold;
+    height: 50px;
+padding: 30px;
+font-size: 2em;
+box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+padding-block:inherit;
+}
+.dropDown{
+    background-color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+    height: 50px;
+}
+.dropDownSelect{
+   
+padding-top: 10px;
+padding: 5px;
+justify-self: auto;
+box-sizing:content-box;
+box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+
+}
+.headerToDo{
+    background-color:azure;
+    text-align: center;
+    font-weight: bold;
+    height: 40px;
+padding: 30px;
+font-size: 1em;
+box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+padding-block:inherit;
+
+}
+
+.tableDisplay{
+    
+    border:5px solid black;
+    margin:30px;
+}
+ 
+.textInput {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #dfdfdf;
+    outline: none;
+  }
+  .completed{
+    text-decoration: line-through;
+  }
+  .labelfield{
+    color: blue;
+    font-weight: bold;
+    font-family:cursive;
+    font-size: 20px;
+  }
+  .headerregistration{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+    color: blueviolet;
+    font-weight: bold;
+  }
+  .selectuser{
+    margin-top: 30px;
+    font-size: 25px;
+    color: blueviolet;
+    margin-right: 20px;
+   
+  }
+  .userWrapper{
+    text-align: center;
+  }
+  .selectusername{
+    font-size: 20px;
+    color: blueviolet;
+    height: 50px;
+    border-radius: 10px;
+    outline: none;
+    text-align: center;
+   
+  }
+
+.displaytable{
+    border: 2px;
+    box-sizing: border-box;
+    
+}
+.displaytableitems{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+   
+
+.buttonSpan{
+  font-weight: bold;
+}
+.tabledisplay{
+
+
+
+}
+.categories{
+background-color:rgb(175, 213, 234)!important;
+font-size: 20px;
+
+}
+.tableRow th{
+  font-size: 22px;
+background-color:rgb(178, 221, 206)!important;
+}
+.tableRadius{
+  border-radius: 20px!important;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+ 

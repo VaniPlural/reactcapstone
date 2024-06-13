@@ -1,0 +1,28 @@
+.container{
+    background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+padding-top: 30px;
+}
+.heading h1{
+    font-size: 3.5rem;
+color: blueviolet;
+text-align: center;
+
+
+}
+.caroselImage{
+margin-inline: auto;
+height: 10px;
+}
+.todoHome{
+    display: flex;
+   gap: 30px;
+    justify-content:space-between;
+    width: 90%;
+    margin-inline:auto;
+}
+.homeContent{
+    width: 50%;
+text-align: justify;
+font-size: 25px;
+}

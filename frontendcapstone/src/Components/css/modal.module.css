@@ -1,0 +1,39 @@
+.Modal{
+    border-radius: 5px;
+    padding:2rem;
+    background-color: white;
+    width: 25em;
+    }
+    .buttonContainer {
+        display: flex;
+     /* or any other value to adjust the spacing */
+      }
+    .ModalContainer{
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0,0,0,0.4);
+    }
+    .formgroup{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 1rem;
+    }
+    .formgroup select,input{
+    border-radius: 0.3rem;
+    border: 1px solid black;
+    padding: 0.3rem;
+    font-size: 1rem;
+    }
+    .btn{
+        margin: auto;
+        display: block;
+        border: none;
+        margin-top: 1rem;
+    }
